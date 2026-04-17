@@ -49,13 +49,6 @@ The dashboard provides **interactive visual insights** into cost distribution, h
 - 🐍 Data Processing: Python / Pandas (optional)  
 - 📁 Dataset: Healthcare cost dataset  
 
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](add-your-image-link-here)
-
----
 
 ## ⚡ How to Use
 
@@ -76,7 +69,7 @@ The dashboard provides **interactive visual insights** into cost distribution, h
 ---
 
 ## 👩‍💻 Author
-**Your Name**
+**LIDIYA**
 
 ---
 
